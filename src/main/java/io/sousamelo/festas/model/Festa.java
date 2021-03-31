@@ -1,6 +1,6 @@
 package io.sousamelo.festas.model;
 
-public class Festas {
+public class Festa {
 
     public String nome;
     public String local;
